@@ -1,0 +1,2 @@
+Here's a Python code that takes a plaintext input, encrypts it using a simple Caesar cipher, and then displays both the encrypted text and the encryption key
+This code uses a Caesar cipher for encryption, which shifts each letter in the plaintext by a fixed number of positions down the alphabet. The encryption key is simply the number of positions shifted. This key is displayed alongside the encrypted text.
